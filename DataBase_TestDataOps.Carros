@@ -1,0 +1,25 @@
+[{
+  "_id": "EUA",
+  "Carros": [
+    "Onix",
+    "Fiesta"
+  ]
+},
+{
+  "_id": "Alemanhã",
+  "Carros": [
+    "Polo"
+  ]
+},
+{
+  "_id": "França",
+  "Carros": [
+    "Sandero"
+  ]
+},
+{
+  "_id": "Japão",
+  "Carros": [
+    "City"
+  ]
+}]
